@@ -14,5 +14,5 @@
  4. Fingerprint module (R305 fingerprint scanner model)
  
  The library needed for install:
- 1. Firebase library (Follow exatly my version)
+ 1. Firebase library (Follow exactly my version)
  2. Finger Print module library
